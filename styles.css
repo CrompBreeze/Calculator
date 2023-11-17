@@ -1,0 +1,18 @@
+.display {
+    width: 400px;
+    height: 100px;
+    font-size: 30px;
+    border: 1px black solid;
+}
+.row-1, .row-2, .row-3, .row-4 {
+    width: 400px;
+    height: 100px;
+    
+    display: flex;
+    justify-content: space-between;
+}
+button {
+    width: 100px;
+    height: 100px;
+    font-size: 30px;
+}
